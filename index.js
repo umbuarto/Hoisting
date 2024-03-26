@@ -44,3 +44,5 @@ for (let i = 0; i < angka.length; i++) {
 numbers.forEach((Element) => {
   console.log(Element);
 });
+
+hello();
